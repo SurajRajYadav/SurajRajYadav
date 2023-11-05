@@ -1,4 +1,8 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav </h1>  
+<div align="center">
+  <h1><h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav </h1>   👋</h1>
+  <p>Welcome to my GitHub profile! I'm [Your Description].</p>
+  <p>Profile Visits: <img src="https://komarev.com/ghpvc/?username=SurajRajYadav" alt="Profile Visits"></p>
+</div>
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=SurajRajYadav)
 
