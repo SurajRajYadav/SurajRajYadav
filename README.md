@@ -3,7 +3,7 @@
   <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav👋</h1>
   </div>
  <div>
-  ![Profile Visits](https://komarev.com/ghpvc/?username=yourusername)
+  <img src="https://komarev.com/ghpvc/?username=SurajRajYadav" alt="Profile Visits">
  </div>
 </div>
 
