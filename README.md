@@ -1,11 +1,7 @@
-<div>
-  <div>
-  <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav👋</h1>
-  </div>
- <div>
-  <img src="https://komarev.com/ghpvc/?username=SurajRajYadav" alt="Profile Visits">
- </div>
-</div>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav👋</h1>
+
+ ![Profile Visits](https://komarev.com/ghpvc/?username=SurajRajYadav)
+
 
 
 
