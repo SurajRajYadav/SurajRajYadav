@@ -1,10 +1,10 @@
-<div align="center">
+<div>
   <h1><h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav </h1>   👋</h1>
-  <p>Welcome to my GitHub profile! I'm [Your Description].</p>
+ 
   <p>Profile Visits: <img src="https://komarev.com/ghpvc/?username=SurajRajYadav" alt="Profile Visits"></p>
 </div>
 
-![Profile Visits](https://komarev.com/ghpvc/?username=SurajRajYadav)
+
 
 
 ![Github_Custome_Profile](https://github.com/SurajRajYadav/SurajRajYadav/assets/108648689/f4762c31-ee46-418e-82a1-a7dbf129c626)
