@@ -1,7 +1,10 @@
 <div>
+  <div>
   <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav👋</h1>
- 
-  <p>Profile Visits: <img src="https://komarev.com/ghpvc/?username=SurajRajYadav" ></p>
+  </div>
+ <div>
+  ![Profile Visits](https://komarev.com/ghpvc/?username=yourusername)
+ </div>
 </div>
 
 
