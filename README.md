@@ -1,5 +1,5 @@
 <div>
-  <h1><h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav </h1>   👋</h1>
+  <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mr. Suraj Raj Yadav👋</h1>
  
   <p>Profile Visits: <img src="https://komarev.com/ghpvc/?username=SurajRajYadav" ></p>
 </div>
